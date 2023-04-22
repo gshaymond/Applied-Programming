@@ -13,3 +13,18 @@ C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applie
 C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\obj\Debug\net7.0\Applied-Programming.pdb
 C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\obj\Debug\net7.0\Applied-Programming.genruntimeconfig.cache
 C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\obj\Debug\net7.0\ref\Applied-Programming.dll
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\bin\Debug\net7.0\Applied-Programming.exe
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\bin\Debug\net7.0\Applied-Programming.deps.json
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\bin\Debug\net7.0\Applied-Programming.runtimeconfig.json
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\bin\Debug\net7.0\Applied-Programming.dll
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\bin\Debug\net7.0\Applied-Programming.pdb
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.csproj.AssemblyReference.cache
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.AssemblyInfoInputs.cache
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.AssemblyInfo.cs
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.csproj.CoreCompileInputs.cache
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.dll
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\refint\Applied-Programming.dll
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.pdb
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\Applied-Programming.genruntimeconfig.cache
+C:\Users\gshay\OneDrive\Documents\Classes\2023 Spring\Applied Programming\Applied-Programming\Hello World\obj\Debug\net7.0\ref\Applied-Programming.dll

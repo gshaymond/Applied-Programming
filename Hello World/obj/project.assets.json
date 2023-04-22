@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\Applied-Programming.csproj",
+      "projectUniqueName": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\Hello World\\Applied-Programming.csproj",
       "projectName": "Applied-Programming",
-      "projectPath": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\Applied-Programming.csproj",
+      "projectPath": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\Hello World\\Applied-Programming.csproj",
       "packagesPath": "C:\\Users\\gshay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\obj\\",
+      "outputPath": "C:\\Users\\gshay\\OneDrive\\Documents\\Classes\\2023 Spring\\Applied Programming\\Applied-Programming\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gshay\\AppData\\Roaming\\NuGet\\NuGet.Config"
